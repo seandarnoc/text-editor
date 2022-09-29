@@ -35,9 +35,12 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 
 ## Description
-
+this is a single-page application that meets the PWA criteria  It will feature a number of data persistence techniques that serve as redundancy in case on eof the options is not supported by the browser. this application will also function offline. 
 
 ## Dependencies
+package idb
 
 ## links
+
+github url: https://github.com/seandarnoc
 
